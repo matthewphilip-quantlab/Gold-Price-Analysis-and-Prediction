@@ -183,8 +183,13 @@ ipython>=8.0.0
 
 ## Author
 
-**Philip**  
-Gold Price Prediction & Market Analysis — 2015 to 2024
+## 👤 Author
+
+**Philip Matthew**
+
+- GitHub: [@matthewphilip-quantlab](https://github.com/matthewphilip-quantlab)
+- LinkedIn: [Philip Matthew](https://www.linkedin.com/in/philip-matthew-514703341/)
+- Email: matthewphilip788@gmail.com
 
 ---
 
