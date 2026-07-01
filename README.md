@@ -141,7 +141,7 @@ Based on **SARIMAX** (best for long-term structural trends):
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/gold-price-analysis-and-prediction.git
+git clone https://github.com/matthewphilip-quantlab/Gold-Price-Analysis-and-Prediction.git
 cd gold-price-analysis-and-prediction
 
 # Install dependencies
