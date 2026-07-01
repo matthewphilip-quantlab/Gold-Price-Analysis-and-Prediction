@@ -181,7 +181,6 @@ ipython>=8.0.0
 
 ---
 
-## Author
 
 ## 👤 Author
 
