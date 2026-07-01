@@ -104,23 +104,24 @@ Based on **SARIMAX** (best for long-term structural trends):
 
 ## Visualizations
 
-**Part 1 — Market Dynamics** (`gold_part1_charts.png`)
-- Gold's 10-year price journey
-- Yearly return bar chart
-- 2024 rally detail
-- Phase evolution analysis
+### 📊 Part 1 — Market Dynamics
+![Market Dynamics](gold_part1_charts.png)
 
-**Part 2 — Investment Analysis** (`gold_part2_charts.png`)
-- Monthly seasonality (debunked)
-- Real return comparison vs other assets
-- Annualized returns comparison
-- Central bank buying trend
+> Gold's 10-year price journey, yearly returns, 2024 rally detail, and phase evolution analysis.
 
-**Part 3 — Portfolio Strategy** (`gold_part3_charts.png`)
-- Risk-return scatter (all assets)
-- Total returns comparison
-- Volatility comparison
-- Portfolio allocation by investor type
+---
+
+### 💼 Part 2 — Investment Analysis
+![Investment Analysis](gold_part2_charts.png)
+
+> Monthly seasonality (debunked), real return vs other assets, annualized returns, and central bank buying trend.
+
+---
+
+### 🎯 Part 3 — Portfolio Strategy
+![Portfolio Strategy](gold_part3_charts.png)
+
+> Risk-return scatter, total returns comparison, volatility analysis, and portfolio allocation by investor type.
 
 ---
 
